@@ -7,7 +7,7 @@
              `/:-:++oooo+:               Shell: zsh
             `/++++/+++++++:              WM: dwm
            `/++++++++++++++:             Terminal: st
-          `/+++ooooooooooooo/`           
+          `/+++ooooooooooooo/`           Keyboard Layout: Programmer Dvorak
          ./ooosssso++osssssso+`          
         .oossssso-````/ossssss+`         
        -osssssso.      :ssssssso.        
